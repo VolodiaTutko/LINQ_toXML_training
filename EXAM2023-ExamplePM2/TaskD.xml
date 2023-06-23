@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <UserLogins>
+    <UserLogin>vlogin1</UserLogin>
+    <ProgrammingLanguage Name="C#" SuccessRate="0,00%" />
+  </UserLogins>
+  <UserLogins>
+    <UserLogin>vlogin2</UserLogin>
+    <ProgrammingLanguage Name="Java" SuccessRate="50,00%" />
+  </UserLogins>
+  <UserLogins>
+    <UserLogin>vlogin3</UserLogin>
+    <ProgrammingLanguage Name="Java" SuccessRate="0,00%" />
+  </UserLogins>
+  <UserLogins>
+    <UserLogin>vlogin4</UserLogin>
+    <ProgrammingLanguage Name="Python" SuccessRate="100,00%" />
+  </UserLogins>
+</TaskD>

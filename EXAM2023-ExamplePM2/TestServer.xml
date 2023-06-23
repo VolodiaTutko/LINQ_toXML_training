@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestServers>
+  <TestServer>
+    <TestServerID>AAA</TestServerID>
+    <PlatformID>AA</PlatformID>
+  </TestServer>
+  <TestServer>
+    <TestServerID>CCC</TestServerID>
+    <PlatformID>CC</PlatformID>
+  </TestServer>
+  <TestServer>
+    <TestServerID>BBB</TestServerID>
+    <PlatformID>BB</PlatformID>
+  </TestServer>
+</TestServers>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Platform>
+    <PlatformName>UA-testing</PlatformName>
+    <ALL_SIZE>6048</ALL_SIZE>
+  </Platform>
+  <Platform>
+    <PlatformName>USA-testing</PlatformName>
+    <ALL_SIZE>4048</ALL_SIZE>
+  </Platform>
+  <Platform>
+    <PlatformName>UK-testing</PlatformName>
+    <ALL_SIZE>2024</ALL_SIZE>
+  </Platform>
+</TaskC>

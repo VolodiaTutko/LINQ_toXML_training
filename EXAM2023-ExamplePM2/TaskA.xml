@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Test>
+    <TestID>1</TestID>
+    <UserLogin>vlogin1</UserLogin>
+    <DateTime>2023-05-13 15:00:00</DateTime>
+    <Result>NOT CORRECT</Result>
+  </Test>
+  <Test>
+    <TestID>2</TestID>
+    <UserLogin>vlogin2</UserLogin>
+    <DateTime>2023-05-13 15:00:00</DateTime>
+    <Result>CORRECT</Result>
+  </Test>
+  <Test>
+    <TestID>5</TestID>
+    <UserLogin>vlogin2</UserLogin>
+    <DateTime>2023-05-13 15:00:00</DateTime>
+    <Result> NOT CORRECT</Result>
+  </Test>
+  <Test>
+    <TestID>3</TestID>
+    <UserLogin>vlogin3</UserLogin>
+    <DateTime>2023-05-13 15:00:00</DateTime>
+    <Result> NOT CORRECT</Result>
+  </Test>
+  <Test>
+    <TestID>4</TestID>
+    <UserLogin>vlogin4</UserLogin>
+    <DateTime>2023-05-13 15:00:00</DateTime>
+    <Result>CORRECT</Result>
+  </Test>
+</TaskA>
