@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<projects>
+  <project>
+    <projectID>AAA</projectID>
+    <project_title>Creating game</project_title>
+  </project>
+  <project>
+    <projectID>BBB</projectID>
+    <project_title>New deal with China</project_title>
+  </project>
+  <project>
+    <projectID>CCC</projectID>
+    <project_title>Open new shop</project_title>
+  </project>
+</projects>

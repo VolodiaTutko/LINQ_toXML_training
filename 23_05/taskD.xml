@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Project>
+    <ProjectID>AAA</ProjectID>
+    <SumHours>25</SumHours>
+    <SumMoney>11950</SumMoney>
+  </Project>
+  <Project>
+    <ProjectID>CCC</ProjectID>
+    <SumHours>24</SumHours>
+    <SumMoney>1920</SumMoney>
+  </Project>
+  <Project>
+    <ProjectID>BBB</ProjectID>
+    <SumHours>4</SumHours>
+    <SumMoney>400</SumMoney>
+  </Project>
+</TaskD>

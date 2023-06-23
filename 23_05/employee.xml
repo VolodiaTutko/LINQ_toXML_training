@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<employees>
+  <employee>
+    <emp_id>100</emp_id>
+    <surname>Tutko</surname>
+    <name>Volodia</name>
+    <department>Dev</department>
+    <position_id>1000</position_id>
+  </employee>
+  <employee>
+    <emp_id>101</emp_id>
+    <surname>Oleshkiv</surname>
+    <name>Maksym</name>
+    <department>Finance</department>
+    <position_id>1001</position_id>
+  </employee>
+  <employee>
+    <emp_id>102</emp_id>
+    <surname>Protskiv</surname>
+    <name>Nazariy</name>
+    <department>Dev</department>
+    <position_id>1003</position_id>
+  </employee>
+  <employee>
+    <emp_id>104</emp_id>
+    <surname>Martyshyn</surname>
+    <name>Victoria</name>
+    <department>Sales</department>
+    <position_id>1005</position_id>
+  </employee>
+  <employee>
+    <emp_id>105</emp_id>
+    <surname>Goliak</surname>
+    <name>Yulia</name>
+    <department>Sales</department>
+    <position_id>1005</position_id>
+  </employee>
+</employees>

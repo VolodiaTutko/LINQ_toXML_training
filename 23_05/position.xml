@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<positions>
+  <position>
+    <position_id>1000</position_id>
+    <position_title>C# Developer</position_title>
+    <pay_per_hour>500</pay_per_hour>
+  </position>
+  <position>
+    <position_id>1001</position_id>
+    <position_title>Economist</position_title>
+    <pay_per_hour>100</pay_per_hour>
+  </position>
+  <position>
+    <position_id>1003</position_id>
+    <position_title>JavaScript Developer</position_title>
+    <pay_per_hour>450</pay_per_hour>
+  </position>
+  <position>
+    <position_id>1004</position_id>
+    <position_title>C# Developer</position_title>
+    <pay_per_hour>500</pay_per_hour>
+  </position>
+  <position>
+    <position_id>1005</position_id>
+    <position_title>Saler</position_title>
+    <pay_per_hour>80</pay_per_hour>
+  </position>
+ </positions>

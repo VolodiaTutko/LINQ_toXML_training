@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Project>
+    <ProjectName>Creating game</ProjectName>
+    <Worker>
+      <Name>Nazariy</Name>
+      <Surname>Protskiv</Surname>
+      <WorkedHours>11</WorkedHours>
+    </Worker>
+    <Worker>
+      <Name>Volodia</Name>
+      <Surname>Tutko</Surname>
+      <WorkedHours>14</WorkedHours>
+    </Worker>
+  </Project>
+  <Project>
+    <ProjectName>New deal with China</ProjectName>
+    <Worker>
+      <Name>Maksym</Name>
+      <Surname>Oleshkiv</Surname>
+      <WorkedHours>4</WorkedHours>
+    </Worker>
+  </Project>
+  <Project>
+    <ProjectName>Open new shop</ProjectName>
+    <Worker>
+      <Name>Yulia</Name>
+      <Surname>Goliak</Surname>
+      <WorkedHours>12</WorkedHours>
+    </Worker>
+    <Worker>
+      <Name>Victoria</Name>
+      <Surname>Martyshyn</Surname>
+      <WorkedHours>12</WorkedHours>
+    </Worker>
+  </Project>
+</TaskA>

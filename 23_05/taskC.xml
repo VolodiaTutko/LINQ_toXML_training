@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Project>
+    <ProjectID>AAA</ProjectID>
+    <Positon>
+      <PositionTitle>C# Developer</PositionTitle>
+      <SumHours>14</SumHours>
+    </Positon>
+    <Positon>
+      <PositionTitle>JavaScript Developer</PositionTitle>
+      <SumHours>11</SumHours>
+    </Positon>
+  </Project>
+  <Project>
+    <ProjectID>BBB</ProjectID>
+    <Positon>
+      <PositionTitle>Economist</PositionTitle>
+      <SumHours>4</SumHours>
+    </Positon>
+  </Project>
+  <Project>
+    <ProjectID>CCC</ProjectID>
+    <Positon>
+      <PositionTitle>Saler</PositionTitle>
+      <SumHours>24</SumHours>
+    </Positon>
+  </Project>
+</TaskC>

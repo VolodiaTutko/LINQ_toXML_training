@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reporta>
+  <report>
+   <Date>2023-05-20</Date>
+    <emp_id>100</emp_id>
+    <projectID>AAA</projectID>
+    <total_hours>6</total_hours>
+    <describe_work>Add implementation main page</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-23</Date>
+    <emp_id>101</emp_id>
+    <projectID>BBB</projectID>
+    <total_hours>4</total_hours>
+    <describe_work>Telling with partners</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-20</Date>
+    <emp_id>102</emp_id>
+    <projectID>AAA</projectID>
+    <total_hours>3</total_hours>
+    <describe_work>Create unit testing for part 1</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-16</Date>
+    <emp_id>104</emp_id>
+    <projectID>CCC</projectID>
+    <total_hours>12</total_hours>
+    <describe_work>Describe the wares</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-16</Date>
+    <emp_id>105</emp_id>
+    <projectID>CCC</projectID>
+    <total_hours>12</total_hours>
+    <describe_work>Installing hardware</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-24</Date>
+    <emp_id>100</emp_id>
+    <projectID>AAA</projectID>
+    <total_hours>8</total_hours>
+    <describe_work>Write a documentation</describe_work>
+  </report>
+  <report>
+    <Date>2023-05-24</Date>
+    <emp_id>102</emp_id>
+    <projectID>AAA</projectID>
+    <total_hours>8</total_hours>
+    <describe_work>Create a UIX-Design and implement it on JS</describe_work>
+  </report>
+  </reporta>
