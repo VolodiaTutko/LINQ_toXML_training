@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Theories>
+  <Theory>
+    <TheoryID>100</TheoryID>
+    <TheoryQuestion>Where you live?</TheoryQuestion>
+    <TheoryMark>56</TheoryMark>
+  </Theory>
+  <Theory>
+    <TheoryID>101</TheoryID>
+    <TheoryQuestion>Where you sleep?</TheoryQuestion>
+    <TheoryMark>36</TheoryMark>
+  </Theory>
+  <Theory>
+    <TheoryID>102</TheoryID>
+    <TheoryQuestion>Where you was last night?</TheoryQuestion>
+    <TheoryMark>51</TheoryMark>
+  </Theory>
+  <Theory>
+    <TheoryID>103</TheoryID>
+    <TheoryQuestion>Where you  will go?</TheoryQuestion>
+    <TheoryMark>87</TheoryMark>
+  </Theory>
+</Theories>

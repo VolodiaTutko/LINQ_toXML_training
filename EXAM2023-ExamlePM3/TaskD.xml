@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Category>
+    <CategoryTitle>B1</CategoryTitle>
+    <Question>Where you sleep?</Question>
+  </Category>
+  <Category>
+    <CategoryTitle>B2</CategoryTitle>
+    <Question>Where you live?</Question>
+  </Category>
+  <Category>
+    <CategoryTitle>C1</CategoryTitle>
+    <Question>Where you was last night?</Question>
+  </Category>
+</TaskD>

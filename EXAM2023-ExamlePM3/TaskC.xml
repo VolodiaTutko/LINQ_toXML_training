@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Category>
+    <CategoryTitle>B1</CategoryTitle>
+    <DriverSurname>Tutko</DriverSurname>
+  </Category>
+  <Category>
+    <CategoryTitle>B2</CategoryTitle>
+    <DriverSurname>Protzkiv</DriverSurname>
+  </Category>
+</TaskC>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Practises>
+  <Practise>
+    <PractiseID>1000</PractiseID>
+    <Auto>BMW</Auto>
+    <PractiseMark>85</PractiseMark>
+  </Practise>
+  <Practise>
+    <PractiseID>1001</PractiseID>
+    <Auto>Audi</Auto>
+    <PractiseMark>35</PractiseMark>
+  </Practise>
+  <Practise>
+    <PractiseID>1002</PractiseID>
+    <Auto>Ford</Auto>
+    <PractiseMark>25</PractiseMark>
+  </Practise>
+  <Practise>
+    <PractiseID>1003</PractiseID>
+    <Auto>Mazda</Auto>
+    <PractiseMark>55</PractiseMark>
+  </Practise>
+</Practises>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Certificates>
+  <Certificate>
+    <CertificateID>1</CertificateID>
+    <DriverSurname>Tutko</DriverSurname>
+    <Category>B1</Category>
+    <DateCertificate>2023-05-05</DateCertificate>
+  </Certificate>
+  <Certificate>
+    <CertificateID>2</CertificateID>
+    <DriverSurname>Protzkiv</DriverSurname>
+    <Category>B2</Category>
+    <DateCertificate>2023-11-05</DateCertificate>
+  </Certificate>
+  <Certificate>
+    <CertificateID>3</CertificateID>
+    <DriverSurname>Koval</DriverSurname>
+    <Category>C1</Category>
+    <DateCertificate>2025-08-05</DateCertificate>
+  </Certificate>
+  <Certificate>
+    <CertificateID>4</CertificateID>
+    <DriverSurname>Yatsuliak</DriverSurname>
+    <Category>B2</Category>
+    <DateCertificate>2029-08-05</DateCertificate>
+  </Certificate>
+</Certificates>

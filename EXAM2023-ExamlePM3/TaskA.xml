@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Certificate>
+    <DriverSurname>Koval</DriverSurname>
+    <Category>C1</Category>
+    <Thermins>04.03.2022 - 05.08.2025</Thermins>
+    <Thermin_in_days>1250</Thermin_in_days>
+  </Certificate>
+  <Certificate>
+    <DriverSurname>Protzkiv</DriverSurname>
+    <Category>B2</Category>
+    <Thermins>04.04.2022 - 05.11.2023</Thermins>
+    <Thermin_in_days>580</Thermin_in_days>
+  </Certificate>
+  <Certificate>
+    <DriverSurname>Tutko</DriverSurname>
+    <Category>B1</Category>
+    <Thermins>04.03.2022 - 05.05.2023</Thermins>
+    <Thermin_in_days>427</Thermin_in_days>
+  </Certificate>
+  <Certificate>
+    <DriverSurname>Yatsuliak</DriverSurname>
+    <Category>B2</Category>
+    <Thermins>04.04.2022 - 05.08.2029</Thermins>
+    <Thermin_in_days>2680</Thermin_in_days>
+  </Certificate>
+</TaskA>
