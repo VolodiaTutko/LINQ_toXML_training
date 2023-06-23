@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Event>
+    <Title>Quantum physics</Title>
+    <Date>19.09.2022</Date>
+    <AgencyName>Ternopil information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title>Nature article</Title>
+    <Date>19.05.2022</Date>
+    <AgencyName>Kyiv information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title>DiscoveryNON</Title>
+    <Date>14.05.2022</Date>
+    <AgencyName>Lviv information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title>DiscoveryNONDEFINED</Title>
+    <Date>14.05.2022</Date>
+    <AgencyName>Kyiv information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title> City news</Title>
+    <Date>14.05.2022</Date>
+    <AgencyName>Kyiv information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title>Sport news</Title>
+    <Date>14.04.2022</Date>
+    <AgencyName>Lviv information centre</AgencyName>
+  </Event>
+  <Event>
+    <Title>Discovery</Title>
+    <Date>29.01.2022</Date>
+    <AgencyName>Ternopil information centre</AgencyName>
+  </Event>
+</TaskA>

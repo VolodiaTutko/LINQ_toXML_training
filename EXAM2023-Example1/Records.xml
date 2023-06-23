@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Records>
+  <Record>
+    <EventID>1</EventID>
+    <Title> City news</Title>
+    <CategoryID>101</CategoryID>
+    <AgencyID>BBB</AgencyID>
+  </Record>
+  <Record>
+    <EventID>2</EventID>
+    <Title>Sport news</Title>
+    <CategoryID>102</CategoryID>
+    <AgencyID>AAA</AgencyID>
+  </Record>
+  <Record>
+    <EventID>3</EventID>
+    <Title>Nature article</Title>
+    <CategoryID>100</CategoryID>
+    <AgencyID>BBB</AgencyID>
+  </Record>
+  <Record>
+    <EventID>4</EventID>
+    <Title>Quantum physics</Title>
+    <CategoryID>101</CategoryID>
+    <AgencyID>CCC</AgencyID>
+  </Record>
+  <Record>
+    <EventID>5</EventID>
+    <Title>Discovery</Title>
+    <CategoryID>102</CategoryID>
+    <AgencyID>CCC</AgencyID>
+  </Record>
+  <Record>
+    <EventID>6</EventID>
+    <Title>DiscoveryNON</Title>
+    <CategoryID>102</CategoryID>
+    <AgencyID>AAA</AgencyID>
+  </Record>
+  <Record>
+    <EventID>7</EventID>
+    <Title>DiscoveryNONDEFINED</Title>
+    <CategoryID>101</CategoryID>
+    <AgencyID>BBB</AgencyID>
+  </Record>
+</Records>

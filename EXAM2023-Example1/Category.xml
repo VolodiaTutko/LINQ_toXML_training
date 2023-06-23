@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+  <Category>
+    <CategoryID>100</CategoryID>
+    <CategoryName>Category1</CategoryName>
+    <Location>INSIDE</Location>
+  </Category>
+  <Category>
+    <CategoryID>101</CategoryID>
+    <CategoryName>Category2</CategoryName>
+    <Location>INSIDE</Location>
+  </Category>
+  <Category>
+    <CategoryID>102</CategoryID>
+    <CategoryName>Category3</CategoryName>
+    <Location>OUTSIDE</Location>
+  </Category>
+</Categories>

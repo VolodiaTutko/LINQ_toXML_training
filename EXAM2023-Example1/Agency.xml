@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Agencies>
+  <Agency>
+    <AgencyID>AAA</AgencyID>
+    <AgencyName>Lviv information centre</AgencyName>
+  </Agency>
+  <Agency>
+    <AgencyID>BBB</AgencyID>
+    <AgencyName>Kyiv information centre</AgencyName>
+  </Agency>
+  <Agency>
+    <AgencyID>CCC</AgencyID>
+    <AgencyName>Ternopil information centre</AgencyName>
+  </Agency>
+</Agencies>

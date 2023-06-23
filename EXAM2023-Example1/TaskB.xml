@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Dates>
+    <Date>19.09.2022</Date>
+    <Location>INSIDE<Events><Title>Quantum physics<AgencyName>Ternopil information centre</AgencyName></Title></Events></Location>
+  </Dates>
+  <Dates>
+    <Date>19.05.2022</Date>
+    <Location>INSIDE<Events><Title>Nature article<AgencyName>Kyiv information centre</AgencyName></Title></Events></Location>
+  </Dates>
+  <Dates>
+    <Date>14.05.2022</Date>
+    <Location>OUTSIDE<Events><Title>DiscoveryNON<AgencyName>Lviv information centre</AgencyName></Title></Events></Location>
+    <Location>INSIDE<Events><Title>DiscoveryNONDEFINED City news<AgencyName>Kyiv information centreKyiv information centre</AgencyName></Title></Events></Location>
+  </Dates>
+  <Dates>
+    <Date>14.04.2022</Date>
+    <Location>OUTSIDE<Events><Title>Sport news<AgencyName>Lviv information centre</AgencyName></Title></Events></Location>
+  </Dates>
+  <Dates>
+    <Date>29.01.2022</Date>
+    <Location>OUTSIDE<Events><Title>Discovery<AgencyName>Ternopil information centre</AgencyName></Title></Events></Location>
+  </Dates>
+</TaskB>
