@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <BookID>1</BookID>
+    <BookTitle>Tom Soyer</BookTitle>
+    <Author>Tven Mark</Author>
+  </Book>
+  <Book>
+    <BookID>2</BookID>
+    <BookTitle>Advantage Guliver</BookTitle>
+    <Author>Swift Jonathan</Author>
+  </Book>
+  <Book>
+    <BookID>3</BookID>
+    <BookTitle>Treasure Island</BookTitle>
+    <Author>Stivenson Robert</Author>
+  </Book>
+  <Book>
+    <BookID>4</BookID>
+    <BookTitle>Gekelbery Finn</BookTitle>
+    <Author>Tven Mark</Author>
+  </Book>
+  <Book>
+    <BookID>5</BookID>
+    <BookTitle>A Modest Proposal</BookTitle>
+    <Author>Swift Jonathan</Author>
+  </Book>
+  <Book>
+    <BookID>6</BookID>
+    <BookTitle>Strange Case of Dr. Jekyll and Mr. Hyde</BookTitle>
+    <Author>Stivenson Robert</Author>
+  </Book>
+</Books>

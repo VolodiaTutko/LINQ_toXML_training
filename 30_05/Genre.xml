@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Genres>
+  <Genre>
+    <GenreID>100</GenreID>
+    <GenreTitle>Fanatasy</GenreTitle>
+  </Genre>
+  <Genre>
+    <GenreID>101</GenreID>
+    <GenreTitle>Advantages</GenreTitle>
+  </Genre>
+  <Genre>
+    <GenreID>102</GenreID>
+    <GenreTitle>Horror</GenreTitle>
+  </Genre>
+</Genres>

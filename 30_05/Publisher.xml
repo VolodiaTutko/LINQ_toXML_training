@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Publishers>
+  <Publisher>
+    <PublisherID>AAA</PublisherID>
+    <PublisherTitle>LVIV PUB Studio</PublisherTitle>
+  </Publisher>
+  <Publisher>
+    <PublisherID>BBB</PublisherID>
+    <PublisherTitle>KYIV PUB Studio</PublisherTitle>
+  </Publisher>
+  <Publisher>
+    <PublisherID>CCC</PublisherID>
+    <PublisherTitle>KHARKIV PUB Studio</PublisherTitle>
+  </Publisher>
+</Publishers>

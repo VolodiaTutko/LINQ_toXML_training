@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Publisher>
+    <PublisherTitle>KHARKIV PUB Studio</PublisherTitle>
+    <Author>Stivenson Robert</Author>
+  </Publisher>
+  <Publisher>
+    <PublisherTitle>KYIV PUB Studio</PublisherTitle>
+    <Author>Swift Jonathan</Author>
+    <Author>Tven Mark</Author>
+  </Publisher>
+  <Publisher>
+    <PublisherTitle>LVIV PUB Studio</PublisherTitle>
+    <Author>Stivenson Robert</Author>
+    <Author>Tven Mark</Author>
+  </Publisher>
+</TaskC>

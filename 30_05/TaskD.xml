@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Genre>
+    <GenreTitle>Advantages</GenreTitle>
+    <Count>2</Count>
+  </Genre>
+  <Genre>
+    <GenreTitle>Fanatasy</GenreTitle>
+    <Count>2</Count>
+  </Genre>
+  <Genre>
+    <GenreTitle>Horror</GenreTitle>
+    <Count>2</Count>
+  </Genre>
+</TaskD>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Books>
+    <Author>Stivenson Robert</Author>
+    <Book>
+      <BookTitle>Strange Case of Dr. Jekyll and Mr. Hyde</BookTitle>
+      <PublisherName>LVIV PUB Studio</PublisherName>
+    </Book>
+  </Books>
+  <Books>
+    <Author>Tven Mark</Author>
+    <Book>
+      <BookTitle>Gekelbery Finn</BookTitle>
+      <PublisherName>LVIV PUB Studio</PublisherName>
+    </Book>
+  </Books>
+  <Books>
+    <Author>Swift Jonathan</Author>
+    <Book>
+      <BookTitle>Advantage Guliver</BookTitle>
+      <PublisherName>KYIV PUB Studio</PublisherName>
+    </Book>
+  </Books>
+</TaskB>
