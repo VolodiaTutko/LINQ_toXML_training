@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Category>
+    <CategoryName>Accesuares</CategoryName>
+    <OperationName>Repair<Sum>500</Sum></OperationName>
+  </Category>
+  <Category>
+    <CategoryName>Notebooks</CategoryName>
+    <OperationName>Repair<Sum>1000</Sum></OperationName>
+    <OperationName>Change display<Sum>300</Sum></OperationName>
+  </Category>
+  <Category>
+    <CategoryName>Personal Computers</CategoryName>
+    <OperationName>Change battery<Sum>250</Sum></OperationName>
+  </Category>
+  <Category>
+    <CategoryName>Smartphones</CategoryName>
+    <OperationName>Add protective glass<Sum>120</Sum></OperationName>
+  </Category>
+</TaskB>

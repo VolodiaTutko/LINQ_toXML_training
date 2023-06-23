@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Operations>
+  <Operation>
+    <OperationID>1000</OperationID>
+    <OperationName>Change battery</OperationName>
+    <Price>250</Price>
+  </Operation>
+  <Operation>
+    <OperationID>1001</OperationID>
+    <OperationName>Repair</OperationName>
+    <Price>500</Price>
+  </Operation>
+  <Operation>
+    <OperationID>1002</OperationID>
+    <OperationName>Change display</OperationName>
+    <Price>300</Price>
+  </Operation>
+  <Operation>
+    <OperationID>1003</OperationID>
+    <OperationName>Add protective glass</OperationName>
+    <Price>120</Price>
+  </Operation>
+</Operations>

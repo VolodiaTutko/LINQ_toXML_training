@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ServiceReceipts>
+  <ServiceReceipt>
+    <CategoryID>100</CategoryID>
+    <ManufactureDate>2010-01-02</ManufactureDate>
+    <ServiceDate>2022-08-12</ServiceDate>
+    <OperationID>1000</OperationID>
+  </ServiceReceipt>
+  <ServiceReceipt>
+    <CategoryID>101</CategoryID>
+    <ManufactureDate>2020-04-03</ManufactureDate>
+    <ServiceDate>2023-02-01</ServiceDate>
+    <OperationID>1001</OperationID>
+  </ServiceReceipt>
+  <ServiceReceipt>
+    <CategoryID>101</CategoryID>
+    <ManufactureDate>2020-06-03</ManufactureDate>
+    <ServiceDate>2023-05-01</ServiceDate>
+    <OperationID>1001</OperationID>
+  </ServiceReceipt>
+  <ServiceReceipt>
+    <CategoryID>101</CategoryID>
+    <ManufactureDate>2022-05-14</ManufactureDate>
+    <ServiceDate>2023-04-10</ServiceDate>
+    <OperationID>1002</OperationID>
+  </ServiceReceipt>
+  <ServiceReceipt>
+    <CategoryID>102</CategoryID>
+    <ManufactureDate>2022-01-02</ManufactureDate>
+    <ServiceDate>2023-05-02</ServiceDate>
+    <OperationID>1003</OperationID>
+  </ServiceReceipt>
+  <ServiceReceipt>
+    <CategoryID>103</CategoryID>
+    <ManufactureDate>2023-04-02</ManufactureDate>
+    <ServiceDate>2023-05-12</ServiceDate>
+    <OperationID>1001</OperationID>
+  </ServiceReceipt>
+</ServiceReceipts>

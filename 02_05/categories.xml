@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Categories>
+  <Category>
+    <CategoryID>100</CategoryID>
+    <CategoryName>Personal Computers</CategoryName>
+    <WarrantyMonths>24</WarrantyMonths>
+  </Category>
+  <Category>
+    <CategoryID>101</CategoryID>
+    <CategoryName>Notebooks</CategoryName>
+    <WarrantyMonths>18</WarrantyMonths>
+  </Category>
+  <Category>
+    <CategoryID>102</CategoryID>
+    <CategoryName>Smartphones</CategoryName>
+    <WarrantyMonths>12</WarrantyMonths>
+  </Category>
+  <Category>
+    <CategoryID>103</CategoryID>
+    <CategoryName>Accesuares</CategoryName>
+    <WarrantyMonths>6</WarrantyMonths>
+  </Category>
+</Categories>

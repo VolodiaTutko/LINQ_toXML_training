@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Category>
+    <CategoryName>Notebooks</CategoryName>
+    <Amount>1</Amount>
+  </Category>
+  <Category>
+    <CategoryName>Accesuares</CategoryName>
+    <Amount>1</Amount>
+  </Category>
+  <Category>
+    <CategoryName>Personal Computers</CategoryName>
+    <Amount>0</Amount>
+  </Category>
+  <Category>
+    <CategoryName>Smartphones</CategoryName>
+    <Amount>0</Amount>
+  </Category>
+</TaskC>
