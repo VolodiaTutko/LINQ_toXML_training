@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Groups>
+  <Group>
+    <GroupID>100</GroupID>
+    <GroupName>PMI-21</GroupName>
+  </Group>
+  <Group>
+    <GroupID>101</GroupID>
+    <GroupName>PMI-22</GroupName>
+  </Group>
+  <Group>
+    <GroupID>102</GroupID>
+    <GroupName>PMI-23</GroupName>
+  </Group>
+</Groups>

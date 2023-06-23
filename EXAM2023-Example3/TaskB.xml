@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Group>
+    <GroupName>PMI-21</GroupName>
+    <Student>
+      <StudentSurname>Yan O.</StudentSurname>
+      <Result>90</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Yen P.</StudentSurname>
+      <Result>45</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Y M.</StudentSurname>
+      <Result>63</Result>
+    </Student>
+  </Group>
+  <Group>
+    <GroupName>PMI-22</GroupName>
+    <Student>
+      <StudentSurname>Tutko V.</StudentSurname>
+      <Result>40</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Sghe V.</StudentSurname>
+      <Result>54</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Len V.</StudentSurname>
+      <Result>34</Result>
+    </Student>
+  </Group>
+  <Group>
+    <GroupName>PMI-23</GroupName>
+    <Student>
+      <StudentSurname>Kim M.</StudentSurname>
+      <Result>78</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Mat O.</StudentSurname>
+      <Result>64</Result>
+    </Student>
+    <Student>
+      <StudentSurname>Gat O.</StudentSurname>
+      <Result>84</Result>
+    </Student>
+  </Group>
+</TaskB>

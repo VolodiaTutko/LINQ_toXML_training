@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teachers>
+  <Teacher>
+    <TeacherID>1000</TeacherID>
+    <TeacherName>Ivan</TeacherName>
+    <TeacherSurname>Ivanovych</TeacherSurname>
+  </Teacher>
+  <Teacher>
+    <TeacherID>1001</TeacherID>
+    <TeacherName>Petro</TeacherName>
+    <TeacherSurname>Petrovych</TeacherSurname>
+  </Teacher>
+  <Teacher>
+    <TeacherID>1002</TeacherID>
+    <TeacherName>Mykola</TeacherName>
+    <TeacherSurname>Mykolayovych</TeacherSurname>
+  </Teacher>
+</Teachers>

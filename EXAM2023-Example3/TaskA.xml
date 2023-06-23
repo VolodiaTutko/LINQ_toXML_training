@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Student>
+    <StudentSurname>Gat O.</StudentSurname>
+    <Group>PMI-23</Group>
+    <Teacher>Mykolayovych M.</Teacher>
+    <Result>84</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Kim M.</StudentSurname>
+    <Group>PMI-23</Group>
+    <Teacher>Petrovych P.</Teacher>
+    <Result>78</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Len V.</StudentSurname>
+    <Group>PMI-22</Group>
+    <Teacher>Mykolayovych M.</Teacher>
+    <Result>34</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Mat O.</StudentSurname>
+    <Group>PMI-23</Group>
+    <Teacher>Ivanovych I.</Teacher>
+    <Result>64</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Sghe V.</StudentSurname>
+    <Group>PMI-22</Group>
+    <Teacher>Ivanovych I.</Teacher>
+    <Result>54</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Tutko V.</StudentSurname>
+    <Group>PMI-22</Group>
+    <Teacher>Petrovych P.</Teacher>
+    <Result>40</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Y M.</StudentSurname>
+    <Group>PMI-21</Group>
+    <Teacher>Mykolayovych M.</Teacher>
+    <Result>63</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Yan O.</StudentSurname>
+    <Group>PMI-21</Group>
+    <Teacher>Petrovych P.</Teacher>
+    <Result>90</Result>
+  </Student>
+  <Student>
+    <StudentSurname>Yen P.</StudentSurname>
+    <Group>PMI-21</Group>
+    <Teacher>Ivanovych I.</Teacher>
+    <Result>45</Result>
+  </Student>
+</TaskA>
