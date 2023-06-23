@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Transfer>
+    <Player>Haland E.</Player>
+    <From_To>Barcelona - Man City</From_To>
+    <TransferSum>220</TransferSum>
+  </Transfer>
+  <Transfer>
+    <Player>Messi L.</Player>
+    <From_To>Dnipro - Barcelona</From_To>
+    <TransferSum>150</TransferSum>
+  </Transfer>
+  <Transfer>
+    <Player>Saka B.</Player>
+    <From_To>Man City - Dnipro</From_To>
+    <TransferSum>100</TransferSum>
+  </Transfer>
+</TaskA>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FCs>
+  <FC>
+    <FCID>100</FCID>
+    <FCName>Barcelona</FCName>
+    <TransferBudget>250</TransferBudget>
+  </FC>
+  <FC>
+    <FCID>101</FCID>
+    <FCName>Dnipro</FCName>
+    <TransferBudget>100</TransferBudget>
+  </FC>
+  <FC>
+    <FCID>102</FCID>
+    <FCName>Man City</FCName>
+    <TransferBudget>350</TransferBudget>
+  </FC>
+</FCs>

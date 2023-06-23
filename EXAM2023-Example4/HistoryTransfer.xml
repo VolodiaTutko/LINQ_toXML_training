@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Histories>
+  <History>
+    <PlayerID>1</PlayerID>
+    <FCIDfrom>101</FCIDfrom>
+    <FCIDto>100</FCIDto>
+    <Transfer>150</Transfer>
+    <Date>2023-06-01</Date>
+  </History>
+  <History>
+    <PlayerID>2</PlayerID>
+    <FCIDfrom>100</FCIDfrom>
+    <FCIDto>102</FCIDto>
+    <Transfer>220</Transfer>
+    <Date>2023-06-10</Date>
+  </History>
+  <History>
+    <PlayerID>3</PlayerID>
+    <FCIDfrom>102</FCIDfrom>
+    <FCIDto>101</FCIDto>
+    <Transfer>100</Transfer>
+    <Date>2023-06-11</Date>
+  </History>
+  </Histories>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Players>
+  <Player>
+    <PlayerID>1</PlayerID>
+    <Name>Lionel</Name>
+    <Surname>Messi</Surname>
+    <TransferPrice>100</TransferPrice>
+  </Player>
+  <Player>
+    <PlayerID>2</PlayerID>
+    <Name>Erling</Name>
+    <Surname>Haland</Surname>
+    <TransferPrice>190</TransferPrice>
+  </Player>
+  <Player>
+    <PlayerID>3</PlayerID>
+    <Name>Bukayo</Name>
+    <Surname>Saka</Surname>
+    <TransferPrice>120</TransferPrice>
+  </Player>
+  <Player>
+    <PlayerID>4</PlayerID>
+    <Name>Myhailo</Name>
+    <Surname>Mudryk</Surname>
+    <TransferPrice>80</TransferPrice>
+  </Player>
+</Players>

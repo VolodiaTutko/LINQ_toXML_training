@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Club>
+    <ClubNameSel>Dnipro</ClubNameSel>
+    <ClubNameBuy>Barcelona</ClubNameBuy>
+    <Players>
+      <Player>Messi L.</Player>
+    </Players>
+  </Club>
+  <Club>
+    <ClubNameSel>Barcelona</ClubNameSel>
+    <ClubNameBuy>Man City</ClubNameBuy>
+    <Players>
+      <Player>Haland E.</Player>
+    </Players>
+  </Club>
+  <Club>
+    <ClubNameSel>Man City</ClubNameSel>
+    <ClubNameBuy>Dnipro</ClubNameBuy>
+    <Players>
+      <Player>Saka B.</Player>
+    </Players>
+  </Club>
+</TaskC>
