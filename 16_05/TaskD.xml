@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudentRanking>
+  <Student>
+    <StudentID>100</StudentID>
+    <FullName>Obuch Oleg</FullName>
+    <TotalMarks>183</TotalMarks>
+  </Student>
+  <Student>
+    <StudentID>106</StudentID>
+    <FullName>Zbruch Votalik</FullName>
+    <TotalMarks>148</TotalMarks>
+  </Student>
+  <Student>
+    <StudentID>101</StudentID>
+    <FullName>Pek Maks</FullName>
+    <TotalMarks>75</TotalMarks>
+  </Student>
+  <Student>
+    <StudentID>105</StudentID>
+    <FullName>Legend Volodia</FullName>
+    <TotalMarks>71</TotalMarks>
+  </Student>
+</StudentRanking>

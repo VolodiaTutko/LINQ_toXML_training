@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Discipline>
+    <DisciplineName>English</DisciplineName>
+    <Teacher>Taras Zab</Teacher>
+    <Group>
+      <GroupName>PMI-21</GroupName>
+      <Student>
+        <StudentName>Legend Volodia</StudentName>
+        <Mark>71</Mark>
+      </Student>
+      <Student>
+        <StudentName>Top Andrii</StudentName>
+        <Mark>45</Mark>
+      </Student>
+    </Group>
+    <Group>
+      <GroupName>PMI-22</GroupName>
+      <Student>
+        <StudentName>Magno Petro</StudentName>
+        <Mark>38</Mark>
+      </Student>
+      <Student>
+        <StudentName>Zbruch Votalik</StudentName>
+        <Mark>67</Mark>
+      </Student>
+    </Group>
+  </Discipline>
+  <Discipline>
+    <DisciplineName>Math</DisciplineName>
+    <Teacher>Mykola Muzyka</Teacher>
+    <Group>
+      <GroupName>PMI-21</GroupName>
+      <Student>
+        <StudentName>Obuch Oleg</StudentName>
+        <Mark>98</Mark>
+      </Student>
+      <Student>
+        <StudentName>Pek Maks</StudentName>
+        <Mark>75</Mark>
+      </Student>
+    </Group>
+    <Group>
+      <GroupName>PMI-22</GroupName>
+      <Student>
+        <StudentName>Magno Petro</StudentName>
+        <Mark>51</Mark>
+      </Student>
+      <Student>
+        <StudentName>Shyshkiv Oleg</StudentName>
+        <Mark>81</Mark>
+      </Student>
+    </Group>
+  </Discipline>
+  <Discipline>
+    <DisciplineName>Programming</DisciplineName>
+    <Teacher>Ivan Terzic</Teacher>
+    <Group>
+      <GroupName>PMI-21</GroupName>
+      <Student>
+        <StudentName>Obuch Oleg</StudentName>
+        <Mark>85</Mark>
+      </Student>
+      <Student>
+        <StudentName>Top Andrii</StudentName>
+        <Mark>61</Mark>
+      </Student>
+    </Group>
+    <Group>
+      <GroupName>PMI-22</GroupName>
+      <Student>
+        <StudentName>Shyshkiv Oleg</StudentName>
+        <Mark>44</Mark>
+      </Student>
+      <Student>
+        <StudentName>Zbruch Votalik</StudentName>
+        <Mark>81</Mark>
+      </Student>
+    </Group>
+  </Discipline>
+</TaskA>

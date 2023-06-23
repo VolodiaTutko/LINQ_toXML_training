@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Groups>
+    <GroupName>PMI-21</GroupName>
+    <Students>
+      <Student>Legend Volodia<Disciplines><DisciplineName>English</DisciplineName><Mark>71</Mark></Disciplines></Student>
+    </Students>
+    <Students>
+      <Student>Obuch Oleg<Disciplines><DisciplineName>Math</DisciplineName><Mark>98</Mark></Disciplines><Disciplines><DisciplineName>Programming</DisciplineName><Mark>85</Mark></Disciplines></Student>
+    </Students>
+    <Students>
+      <Student>Pek Maks<Disciplines><DisciplineName>Math</DisciplineName><Mark>75</Mark></Disciplines></Student>
+    </Students>
+  </Groups>
+  <Groups>
+    <GroupName>PMI-22</GroupName>
+    <Students>
+      <Student>Zbruch Votalik<Disciplines><DisciplineName>Programming</DisciplineName><Mark>81</Mark></Disciplines><Disciplines><DisciplineName>English</DisciplineName><Mark>67</Mark></Disciplines></Student>
+    </Students>
+  </Groups>
+</TaskC>

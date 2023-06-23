@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Disciplines>
+<Discipline>
+  <DisciplineName>Programming</DisciplineName>
+  <TeacherID>3</TeacherID>
+  <ResultStudents>
+  <ResultStudent>
+    <StudentID>100</StudentID>
+    <Mark>85</Mark>
+  </ResultStudent>
+  <ResultStudent>
+    <StudentID>102</StudentID>
+    <Mark>44</Mark>
+  </ResultStudent>
+  <ResultStudent>
+    <StudentID>104</StudentID>
+    <Mark>61</Mark>
+  </ResultStudent>
+  <ResultStudent>
+    <StudentID>106</StudentID>
+    <Mark>81</Mark>
+  </ResultStudent>
+   </ResultStudents>
+</Discipline>
+</Disciplines>
+
+
