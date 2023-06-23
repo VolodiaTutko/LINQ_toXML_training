@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Show>
+    <Title>SHOW NUMBER 1</Title>
+    <Date>25.12.2004</Date>
+    <CollectiveName>Tvorchi</CollectiveName>
+    <Time>20:00</Time>
+    <Location>Lviv</Location>
+  </Show>
+  <Show>
+    <Title>SHOW NUMBER 3</Title>
+    <Date>25.12.2004</Date>
+    <CollectiveName>Fantasy</CollectiveName>
+    <Time>20:15</Time>
+    <Location>Ternopil</Location>
+  </Show>
+  <Show>
+    <Title>SHOW NUMBER 2</Title>
+    <Date>26.12.2004</Date>
+    <CollectiveName>Future</CollectiveName>
+    <Time>19:00</Time>
+    <Location>Kyiv</Location>
+  </Show>
+  <Show>
+    <Title>SHOW NUMBER 4</Title>
+    <Date>26.12.2004</Date>
+    <CollectiveName>Tvorchi</CollectiveName>
+    <Time>20:15</Time>
+    <Location>Lviv</Location>
+  </Show>
+  <Show>
+    <Title>SHOW NUMBER 1</Title>
+    <Date>27.12.2004</Date>
+    <CollectiveName>Tvorchi</CollectiveName>
+    <Time>20:00</Time>
+    <Location>Lviv</Location>
+  </Show>
+</TaskB>

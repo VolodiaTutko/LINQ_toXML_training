@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Location>
+    <LocationName>Kyiv</LocationName>
+    <CollectiveName>Future<Count>1</Count></CollectiveName>
+  </Location>
+  <Location>
+    <LocationName>Lviv</LocationName>
+    <CollectiveName>Tvorchi<Count>3</Count></CollectiveName>
+  </Location>
+  <Location>
+    <LocationName>Ternopil</LocationName>
+    <CollectiveName>Fantasy<Count>1</Count></CollectiveName>
+  </Location>
+</TaskD>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shows>
+  <Show>
+    <ShowID>1</ShowID>
+    <Time>20:00:00</Time>
+    <Location>Lviv</Location>
+  </Show>
+  <Show>
+    <ShowID>2</ShowID>
+    <Time>19:00:00</Time>
+    <Location>Kyiv</Location>
+  </Show>
+  <Show>
+    <ShowID>3</ShowID>
+    <Time>20:15:00</Time>
+    <Location>Ternopil</Location>
+  </Show>
+  <Show>
+    <ShowID>4</ShowID>
+    <Time>20:15:00</Time>
+    <Location>Lviv</Location>
+  </Show>
+</Shows>

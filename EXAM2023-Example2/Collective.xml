@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Collectives>
+  <Collective>
+    <CollectiveID>100</CollectiveID>
+    <CollectiveName>Tvorchi</CollectiveName>
+  </Collective>
+  <Collective>
+    <CollectiveID>101</CollectiveID>
+    <CollectiveName>Future</CollectiveName>
+  </Collective>
+  <Collective>
+    <CollectiveID>102</CollectiveID>
+    <CollectiveName>Fantasy</CollectiveName>
+  </Collective>
+</Collectives>

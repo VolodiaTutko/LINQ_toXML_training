@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Records>
+  <Record>
+    <ShowID>1</ShowID>
+    <Date>2004-12-25</Date>
+    <Title>SHOW NUMBER 1</Title>
+    <CollectiveID>100</CollectiveID>
+  </Record>
+  <Record>
+    <ShowID>1</ShowID>
+    <Date>2004-12-27</Date>
+    <Title>SHOW NUMBER 1</Title>
+    <CollectiveID>100</CollectiveID>
+  </Record>
+  <Record>
+    <ShowID>2</ShowID>
+    <Date>2004-12-26</Date>
+    <Title>SHOW NUMBER 2</Title>
+    <CollectiveID>101</CollectiveID>
+  </Record>
+  <Record>
+    <ShowID>3</ShowID>
+    <Date>2004-12-25</Date>
+    <Title>SHOW NUMBER 3</Title>
+    <CollectiveID>102</CollectiveID>
+  </Record>
+  <Record>
+    <ShowID>4</ShowID>
+    <Date>2004-12-26</Date>
+    <Title>SHOW NUMBER 4</Title>
+    <CollectiveID>100</CollectiveID>
+  </Record>
+</Records>
